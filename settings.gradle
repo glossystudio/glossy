@@ -1,7 +1,0 @@
-rootProject.name = 'LiveFaceBeauty'
-
-include ':adsLib-dev'
-include ':app'
-include ':liveFaceLib-dev'
-include ':liveFaceLib-googleplay'
-include ':adsLib-googleplay'
